@@ -1,9 +1,7 @@
 ### [Prisma](http://prismagraphql.com) - [React Native](https://facebook.github.io/react-native/) Boilerplate
 
 <div>
-<img align="left" width="180" height="100" src="https://camo.githubusercontent.com/c7f49c483a3c5a145ff55c7331520a65e12abff2/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67">
-
-<img align="center" width="100" height="100" src="https://www.atatus.com/images/devicon/icon-express.svg">
+<img align="left" width="200" height="120" src="https://camo.githubusercontent.com/c7f49c483a3c5a145ff55c7331520a65e12abff2/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67">
 
 <img align="left" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png">
 
