@@ -7,7 +7,7 @@
 
 <img align="left" width="190" height="150" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png">
 
-<img align="left" width="290" height="150" src="https://cdn-images-1.medium.com/max/1467/1*pO4kjXdsOi_ZsS50Py6UNQ.png">
+<img align="left" width="293" height="150" src="https://cdn-images-1.medium.com/max/1467/1*pO4kjXdsOi_ZsS50Py6UNQ.png">
 
 </div>
 
