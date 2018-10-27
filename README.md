@@ -11,6 +11,8 @@
 
 </div>
 
+<br><br><br><br><br>
+
 #### Authorization enabled boilerplate connecting prisma and react-native.
 
 ### Pre-requisites
