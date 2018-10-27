@@ -3,13 +3,16 @@
 <div>
 <img align="left" width="200" height="120" src="https://camo.githubusercontent.com/c7f49c483a3c5a145ff55c7331520a65e12abff2/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67">
 
-<img align="left" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png">
+<img align="left" width="110" height="110" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png">
 
-<img align="left" width="150" height="100" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png">
+<img align="left" width="190" height="150" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png">
+
+<img align="left" width="300" height="150" src="https://cdn-images-1.medium.com/max/1467/1*pO4kjXdsOi_ZsS50Py6UNQ.png">
 
 </div>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+
 
 #### Authorization enabled boilerplate connecting prisma and react-native.
 
